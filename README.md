@@ -8,6 +8,12 @@ https://mlcourse.ai/ - курс по машинному обучению от od
 
 https://dlcourse.ai/ - курс по глубокому обучению от ods
 
+https://www.fast.ai/ - тут несколько курсов от fast ai
+
+## каналы
+
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A - популярное объяснение многих топиков
+
 ## Оффлайн-курсы в Москве
 
 http://dmia.space - Data Mining in Action
@@ -20,3 +26,12 @@ https://ods.ai/ - Open Data science - самое крупное русскояз
 ## Подборки ссылок
 
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie - очень много различных ресурсов по машинному обучению
+
+https://github.com/iamtodor/data-science-interview-questions-and-answers - вопросы на собеседовании
+
+https://github.com/kailashahirwar/cheatsheets-ai - cheetsheets
+
+
+## Визуализации
+
+http://www.r2d3.us/ - визуализации алгоритмов
