@@ -35,3 +35,7 @@ https://github.com/kailashahirwar/cheatsheets-ai - cheetsheets
 ## Визуализации
 
 http://www.r2d3.us/ - визуализации алгоритмов
+
+## разное
+https://github.com/42-AI - буткэмпы от 42
+http://introtodeeplearning.com/ - mit 6.S191
